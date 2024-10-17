@@ -24,6 +24,6 @@ Este repositorio contiene los archivos de la presentación **"[Título de la Pre
 
 ### Para visualizar la presentación
 
-1. Descarga o clona el repositorio:
+1. Descarga o clona los repositorio:
    ```bash
-   git clone https://github.com/Jhordan1030
+   https://github.com/Jhordan1030

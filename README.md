@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @Jhordan1030
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Presentación: [Título de la Presentación]
 
-<!---
-Jhordan1030/Jhordan1030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Este repositorio contiene los archivos de la presentación **"[Título de la Presentación]"** realizada por **[Tu Nombre]**. La presentación aborda [breve descripción del tema] y está diseñada para [propósito de la presentación].
+
+## Contenido del Repositorio
+
+- `presentation.pptx` o `presentation.pdf`: Archivo de la presentación en formato [PowerPoint/Google Slides/PDF].
+- `README.md`: Información sobre el repositorio y la presentación.
+- `assets/`: Carpeta con recursos adicionales (imágenes, gráficos, videos, etc.) usados en la presentación.
+
+## Resumen de la Presentación
+
+- **Tema**: [Descripción del tema de la presentación].
+- **Objetivos**:
+  - [Objetivo 1]
+  - [Objetivo 2]
+  - [Objetivo 3]
+- **Puntos clave**:
+  - [Punto clave 1]
+  - [Punto clave 2]
+  - [Punto clave 3]
+
+## Instrucciones
+
+### Para visualizar la presentación
+
+1. Descarga o clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/nombre-del-repositorio.git

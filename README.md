@@ -22,7 +22,7 @@ Soy un entusiasta de la tecnología, apasionado por el aprendizaje continuo y la
 ## 📫 ¿Quieres contactarme?
 
 - Email: [jhordanhuera2002@gmail.com](mailto:jhordanhuera2002@gmail.com)
-- LinkedIn: [Jhordan Huera](https://www.linkedin.com/in/jhordan-huera-517776196/))
+- LinkedIn: [Jhordan Huera](https://www.linkedin.com/in/jhordan-huera-517776196/)
 - Instagram: [@jhordanhuera](https://www.instagram.com/jhordanhuera/)
 ---
 

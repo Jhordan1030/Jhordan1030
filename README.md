@@ -18,6 +18,7 @@ Soy un entusiasta de la tecnología, apasionado por el aprendizaje continuo y la
 ## 📈 Proyectos destacados
 
 - [MIPYMES](https://github.com/Jhordan1030/MIPYMES)
+- [APP-RECORRIDOS](https://github.com/Jhordan1030/recorridos-app.git)
 
 ## 📫 ¿Quieres contactarme?
 

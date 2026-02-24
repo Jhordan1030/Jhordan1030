@@ -1,30 +1,97 @@
-# 👋 ¡Hola! Soy Jhordan Huera
+# 👨‍💻 Jhordan Huera
 
-Soy un entusiasta de la tecnología, apasionado por el aprendizaje continuo y la programación. Me gusta explorar nuevas herramientas, lenguajes y frameworks para crear soluciones eficientes y creativas.
+Desarrollador de software enfocado en la construcción de soluciones escalables, eficientes y mantenibles. Apasionado por la arquitectura backend, el desarrollo web moderno y la automatización de procesos.
 
-## 🚀 Sobre mí
-
-- 💻 Amante del desarrollo de software y la innovación tecnológica.
-- 📚 Siempre aprendiendo algo nuevo y abierto a colaborar en proyectos interesantes.
-- 🛠️ Interesado en el desarrollo web, aplicaciones móviles y automatización.
-- 🤝 Disfruto compartir conocimientos y trabajar en equipo.
-
-## 🧰 Tecnologías y herramientas
-
-- Lenguajes: JavaScript, Python, Java, SQL
-- Frameworks y librerías: React, Node.js
-- Herramientas: Git, Docker
-
-## 📈 Proyectos destacados
-
-- [MIPYMES](https://github.com/Jhordan1030/MIPYMES)
-- [APP-RECORRIDOS](https://recorridos-app.vercel.app/login)
-
-## 📫 ¿Quieres contactarme?
-
-- Email: [jhordanhuera2002@gmail.com](mailto:jhordanhuera2002@gmail.com)
-- LinkedIn: [Jhordan Huera](https://www.linkedin.com/in/jhordan-huera-517776196/)
-- Instagram: [@jhordanhuera](https://www.instagram.com/jhordanhuera/)
 ---
 
-¡Gracias por visitar mi perfil! Si te interesa colaborar o tienes alguna sugerencia, no dudes en contactarme.
+## 🚀 Perfil Profesional
+
+Ingeniero en formación con enfoque práctico en desarrollo **Full Stack**. Experiencia trabajando con APIs REST, bases de datos relacionales y despliegues en entornos contenerizados.
+
+### 🎯 Intereses Técnicos
+
+- Diseño y desarrollo de APIs REST
+- Arquitectura de aplicaciones web
+- Modelado y optimización de bases de datos
+- Automatización de procesos
+- Buenas prácticas (Clean Code, estructura modular, control de versiones)
+
+---
+
+## 🧰 Stack Tecnológico
+
+### 💻 Lenguajes
+- JavaScript
+- Python
+- Java
+- SQL
+
+### ⚙️ Backend
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+
+### 🎨 Frontend
+- React
+- HTML5
+- CSS3
+
+### 🛠️ DevOps y Herramientas
+- Git & GitHub
+- Docker & Docker Compose
+- DataGrip
+- Postman
+
+---
+
+## 📈 Proyectos Destacados
+
+### 🔹 MIPYMES
+Sistema orientado a la gestión y digitalización de procesos para micro, pequeñas y medianas empresas.  
+
+- Arquitectura basada en servicios
+- Gestión de base de datos relacional
+- Implementación de lógica de negocio modular  
+
+🔗 Repositorio:  
+https://github.com/Jhordan1030/MIPYMES
+
+---
+
+### 🔹 APP-RECORRIDOS
+Aplicación web enfocada en la gestión y visualización de recorridos.
+
+- Interfaz desarrollada en React
+- Backend con Node.js
+- Despliegue en Vercel
+
+🔗 Demo:  
+https://recorridos-app.vercel.app/login
+
+---
+
+## 🧠 Enfoque de Trabajo
+
+- Código limpio y mantenible
+- Arquitectura organizada y escalable
+- Documentación clara
+- Trabajo colaborativo con Git
+- Orientación a resultados
+
+---
+
+## 📫 Contacto
+
+📧 Email:  
+jhordanhuera2002@gmail.com  
+
+🔗 LinkedIn:  
+https://www.linkedin.com/in/jhordan-huera-517776196/  
+
+📸 Instagram:  
+https://www.instagram.com/jhordanhuera/
+
+---
+
+⭐ Siempre abierto a colaborar en proyectos innovadores y desafiantes.

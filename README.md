@@ -84,7 +84,7 @@ https://recorridos-app.vercel.app/login
 ## 📫 Contacto
 
 📧 Email:  
-jhordanhuera2002@gmail.com  
+jhordan.huera.n@gmail.com
 
 🔗 LinkedIn:  
 https://www.linkedin.com/in/jhordan-huera-517776196/  
